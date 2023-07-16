@@ -25,8 +25,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Sylvia SMP
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "This is the status page for the **Sylvia SMP**"
+  introMessage: This page may take up to 5 minutes to update after server status changes. If something is down we are most likely aware of and working on it please do not spam us trying to tell us.
   navbar:
     - title: Status
       href: /
