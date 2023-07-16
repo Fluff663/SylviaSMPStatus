@@ -9,7 +9,15 @@ sites:
     port: 25565
   - name: DynMap
     url: https://dynmap.sylvy.me
-
+  - name: Host System
+    check: "tcp-ping"
+    url: $BACKENDIP
+    port: $BACKENDPORT
+  - name: Private Server
+    check: "tcp-ping"
+    url: $PRIVATESMPIP
+    port: $PRIVATESMPPORT
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
