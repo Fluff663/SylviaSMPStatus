@@ -8,7 +8,7 @@ sites:
     url: play.sylvy.me
     port: 25565
   - name: DynMap
-    url: https://dynmap.sylvy.me
+    url: http://dynmap.sylvy.me
   - name: Host System
     check: "tcp-ping"
     url: $BACKENDIP
