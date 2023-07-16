@@ -26,7 +26,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Sylvia SMP
   introTitle: "This is the status page for the **Sylvia SMP**"
-  introMessage: This page may take up to 5 minutes to update after server status changes. If something is down we are most likely aware of and working on it please do not spam us trying to tell us.
+  introMessage: This page may take up to 5 minutes to update after server status changes. If something is down we are most likely already aware of and working on it please do not spam us trying to tell us.
   navbar:
     - title: Status
       href: /
