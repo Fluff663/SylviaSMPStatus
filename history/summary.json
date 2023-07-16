@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dynmap.sylvy.me.ico",
     "slug": "dyn-map",
     "status": "up",
-    "uptime": "44.64%",
-    "uptimeDay": "44.64%",
-    "uptimeWeek": "44.64%",
-    "uptimeMonth": "44.64%",
-    "uptimeYear": "44.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 194,
     "timeWeek": 194,
     "timeMonth": 194,
     "timeYear": 194,
-    "dailyMinutesDown": {
-      "2023-07-16": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Host System",
