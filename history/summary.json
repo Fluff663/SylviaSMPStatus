@@ -4,19 +4,19 @@
     "url": "play.sylvy.me",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sylvia-smp",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 90,
-    "timeDay": 79,
-    "timeWeek": 90,
-    "timeMonth": 90,
-    "timeYear": 90,
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
+    "time": 88,
+    "timeDay": 73,
+    "timeWeek": 88,
+    "timeMonth": 88,
+    "timeYear": 88,
     "dailyMinutesDown": {
-      "2023-07-22": 21
+      "2023-07-22": 55
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "http://dynmap.sylvy.me",
     "icon": "https://icons.duckduckgo.com/ip3/dynmap.sylvy.me.ico",
     "slug": "dyn-map",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 181,
-    "timeDay": 192,
-    "timeWeek": 181,
-    "timeMonth": 181,
-    "timeYear": 181,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "96.23%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 176,
+    "timeDay": 159,
+    "timeWeek": 176,
+    "timeMonth": 176,
+    "timeYear": 176,
     "dailyMinutesDown": {
-      "2023-07-22": 21
+      "2023-07-22": 54
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "$PRIVATESMPIP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "private-server",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "96.40%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
     "time": 52,
-    "timeDay": 73,
+    "timeDay": 60,
     "timeWeek": 52,
     "timeMonth": 52,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2023-07-22": 18
+      "2023-07-22": 52
     }
   }
 ]
