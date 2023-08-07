@@ -12,7 +12,7 @@ sites:
   - name: Host System
     check: "tcp-ping"
     url: $BACKENDIP
-    port: $BACKENDPORT
+    port: 10068
   - name: Private Server
     check: "tcp-ping"
     url: $PRIVATESMPIP
