@@ -5,7 +5,7 @@ repo: SylviaSMPStatus # The name of this repository
 sites:
   - name: Sylvia SMP
     check: "tcp-ping"
-    url: play.sylvy.me
+    url: mcs.sylvy.me
     port: 25565
   - name: DynMap
     url: http://dynmap.sylvy.me
