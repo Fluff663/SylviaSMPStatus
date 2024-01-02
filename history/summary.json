@@ -50,7 +50,7 @@
     "url": "http://dynmap.sylvy.me",
     "icon": "https://icons.duckduckgo.com/ip3/dynmap.sylvy.me.ico",
     "slug": "dyn-map",
-    "status": "up",
+    "status": "down",
     "uptime": "90.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -62,6 +62,7 @@
     "timeMonth": 239,
     "timeYear": 193,
     "dailyMinutesDown": {
+      "2024-01-02": 0,
       "2023-12-15": 1439,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
@@ -108,7 +109,7 @@
     "timeMonth": 0,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2024-01-02": 61,
+      "2024-01-02": 96,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
       "2023-12-30": 1440,
